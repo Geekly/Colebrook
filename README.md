@@ -2,4 +2,4 @@
 Solution of the Colebrook equation
 
 
-![alt text](https://github.com/geekly/colebrook/colebrook.svg "Colebrook Equation")
+![alt text](https://github.com/Geekly/Colebrook/blob/master/colebrook.svg "Colebrook Equation")
